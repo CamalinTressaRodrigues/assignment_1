@@ -2,7 +2,7 @@
 
 //  Write a JavaScript program to find the most frequent item of an array
 
-function freqItem (array) {
+function freqItem (arr) {
 
 var count = 1;
 var val = 0;
